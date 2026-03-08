@@ -1,9 +1,13 @@
 Try E01
 
 enemy north
+
 run
+
 wait
+
 team all attack
+
 
 
 # E01-language
