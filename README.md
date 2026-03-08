@@ -195,3 +195,10 @@ enemy here
 team attack  
 wait  
 game good
+
+
+English word OK.
+
+E01 small.
+English help.
+Meaning clear.
