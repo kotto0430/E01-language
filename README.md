@@ -1,11 +1,8 @@
 Try E01
 
 enemy north
-
 run
-
 wait
-
 team all attack
 
 
