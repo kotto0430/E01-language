@@ -88,3 +88,92 @@ Brain free.
 ## Created by
 
 kotto (Japan) & Yomi (ChatGPT)
+
+
+## Core Vocabulary (E01)
+
+### People
+
+I  
+you  
+they  
+man  
+woman  
+team  
+enemy  
+
+### Actions
+
+go  
+run  
+stop  
+attack  
+give  
+take  
+see  
+wait  
+open  
+close  
+
+### Objects
+
+apple  
+banana  
+grape  
+food  
+water  
+weapon  
+game  
+AI  
+
+### Description
+
+big  
+small  
+good  
+bad  
+fast  
+slow  
+new  
+old  
+
+### Time
+
+now  
+later  
+yesterday  
+
+### Direction
+
+north  
+south  
+east  
+west  
+left  
+right  
+here  
+
+### Logic
+
+and  
+or  
+no  
+can  
+
+### Emotion
+
+thanks  
+sorry  
+why  
+
+### Example
+
+enemy north  
+team all attack  
+
+enemy dead  
+team good  
+
+wait  
+enemy here?
+
