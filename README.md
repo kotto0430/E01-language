@@ -177,3 +177,9 @@ team good
 wait  
 enemy here?
 
+## Try E01
+
+enemy here  
+team attack  
+wait  
+game good
