@@ -185,6 +185,25 @@ team help = support
 danger north = north is dangerous
 target enemy = attack this enemy
 
+## E01 Grammar Summary
+
+Word order is flexible.
+
+Examples
+
+enemy north
+team follow
+attack now
+
+Repeat words to increase meaning
+
+danger danger = very dangerous
+
+Words can join to create new meaning
+
+enemy house = enemy base
+team help = support
+
 
 ### Example
 
