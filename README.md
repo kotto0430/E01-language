@@ -65,7 +65,7 @@ Brain free.
 
 ## Respect for English
 
-English0.1 is based on English words and simple grammar.
+English0.11 is based on English words and simple grammar.
 
 This project is not meant to replace English.
 
