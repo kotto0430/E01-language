@@ -174,6 +174,17 @@ big big = very big
 danger danger = very dangerous  
 run run = run now
 
+## Join Rule
+
+Words may join to make new meaning.
+
+Examples
+
+enemy house = enemy base
+team help = support
+danger north = north is dangerous
+target enemy = attack this enemy
+
 
 ### Example
 
