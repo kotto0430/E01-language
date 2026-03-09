@@ -8,22 +8,19 @@ wait
 
 team all attack
 
-
-
-# E01-language
-Minimal language for gaming chat Word small. Meaning big.
-
-
 # E01-language
 
 ## E01 – Minimal Language for Gaming
 
-Word small. Meaning big. Brain free.
+## Philosophy
 
-E01 is a minimal language designed for fast communication in games.  
-Players from any country can use it.
+E01 is a minimal language.
 
----
+Word small. Meaning big.
+
+Brain free communication.
+
+The goal is simple communication for games and online chat.
 
 ## Example
 
