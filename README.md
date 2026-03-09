@@ -116,7 +116,8 @@ These words form the minimal language.
 ### Verbs
 go come run stop attack  
 see give take eat make  
-say know help have follow  
+say know help have follow 
+start end
 
 ### State
 big small good bad  
@@ -130,7 +131,7 @@ north south east west
 left right here there  
 
 ### Time
-now later day night  
+now later 
 
 ### Connection
 and or no  
