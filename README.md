@@ -77,21 +77,19 @@ If E01 helps someone become interested in learning English, that would make us v
 
 ## Version Rule
 
-E01 must never approach English.
+E01 versions approach English but never become English.
 
-Versions extend the decimal part only.
+Example:
 
-Examples:
+0.11
+0.12
+0.13
+...
+0.19
+0.191
+0.192
 
-E01  
-E01.1  
-E01.11  
-E01.12  
-E01.19  
-E01.191  
-
-E02 is forbidden.  
-E09 is forbidden.
+Version 0.2 is forbidden.
 
 ---
 
