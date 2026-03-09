@@ -102,81 +102,52 @@ Brain free.
 kotto (Japan) & Yomi (ChatGPT)
 
 
-## Core Vocabulary (E01)
+## E01 Core Vocabulary (64 words)
 
-### People
+These 64 words form the core of E01.
 
-I  
-you  
-they  
-man  
-woman  
-team  
-enemy  
+English words outside this list may still be used if needed.
 
-### Actions
+Word small. Meaning big. Brain free.
 
-go  
-run  
-stop  
-attack  
-give  
-take  
-see  
-wait  
-open  
-close  
+---
 
-### Objects
+### Verbs
+go come run stop attack  
+see give take eat make  
+say know help have follow  
 
-apple  
-banana  
-grape  
-food  
-water  
-weapon  
-game  
-AI  
+### State
+big small good bad  
+fast slow new old  
 
-### Description
-
-big  
-small  
-good  
-bad  
-fast  
-slow  
-new  
-old  
-
-### Time
-
-now  
-later  
-yesterday  
+### Result
+win lose dead  
 
 ### Direction
+north south east west  
+left right here there  
 
-north  
-south  
-east  
-west  
-left  
-right  
-here  
+### Time
+now later day night  
 
-### Logic
+### Connection
+and or no  
 
-and  
-or  
-no  
-can  
+### Humans
+man woman child  
+friend enemy team  
 
-### Emotion
+### Concepts
+AI game world life  
+map house food water apple  
 
-thanks  
-sorry  
-why  
+### Commands
+wait open close  
+more all  
+
+### Tactical
+danger need target
 
 ### Example
 
