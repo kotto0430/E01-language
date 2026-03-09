@@ -109,6 +109,10 @@ Word small. Meaning big. Brain free.
 
 ---
 
+E01 uses a core vocabulary of 64 words.
+These words form the minimal language.
+
+
 ### Verbs
 go come run stop attack  
 see give take eat make  
