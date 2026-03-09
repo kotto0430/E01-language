@@ -125,6 +125,10 @@ E01(⁠English0.11) uses a core vocabulary of 128 words.
 These words form the minimal language.
 
 
+Core Vocabulary: 64
+Additional Vocabulary: 64
+Total Vocabulary: 128
+
 ## E01 Core Vocabulary (64 words)
 
 ### Verbs
