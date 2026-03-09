@@ -164,6 +164,16 @@ Example
 
 Numbers are universal and not counted in the 64 word limit.
 
+## Repeat Rule
+
+Words may repeat to increase meaning.
+
+Examples
+
+big big = very big  
+danger danger = very dangerous  
+run run = run now
+
 
 ### Example
 
