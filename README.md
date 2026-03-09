@@ -47,6 +47,19 @@ life good
 Short sentences  
 No complex grammar  
 
+One line = One message
+
+Write short lines.
+Do not write long sentences.
+
+Example:
+
+enemy north
+3 enemy
+danger
+team attack
+ok
+
 Question: `?`  
 Command: `!`  
 
