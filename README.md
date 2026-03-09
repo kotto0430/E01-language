@@ -1,3 +1,10 @@
+Play games without English.
+
+Word small.
+Meaning big.
+Brain free.
+
+
 Try E01
 
 enemy north
