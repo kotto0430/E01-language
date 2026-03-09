@@ -234,6 +234,11 @@ quest trade party level
 farm mine craft block
 village shop sell buy
 
+
+close = shut / close object
+near = close distance
+
+
 ## Numbers
 
 Numbers may always be used.
