@@ -125,70 +125,84 @@ E01(⁠English0.11) uses a core vocabulary of 128 words.
 These words form the minimal language.
 
 
+## E01 Core Vocabulary (64 words)
+
 ### Verbs
-go come run stop attack  
-see give take eat make  
-say know help have follow 
-start end
+go come run stop attack
+see give take eat make
+say know help have follow start end
 
 ### State
-big small good bad  
-fast slow new old  
-ready again pause
-continue join leave
+big small good bad
+fast slow new old
 
 ### Result
-win lose dead  
+win lose dead
 
 ### Direction
-north south east west  
-left right here there  
-near far back front center
+north south east west
+left right here there
 
 ### Time
-now later 
+now later
 
 ### Connection
-and or no  
+and or no
 
 ### Humans
-man woman child  
-friend enemy team  
+man woman child
+friend enemy team
 
 ### Concepts
-AI game world life  
-map house food water apple  
+AI game world life
+map house food water apple
 
 ### Commands
-wait open close  
-more all  
+wait open close
+more all
 
 ### Tactical
-danger need target heal
-cover safe hold protect
+danger need target
 
-### Game progress
+## E01 v0.11 Additional Vocabulary (+64)
+### Distance / Position
+near far back front
+center 
+
+### Tactical Support
+heal cover safe
+hold protect
+
+### Game Progress
 spawn respawn base camp
 loot drop build break
 
-### equipment
+### Equipment / Items
 weapon ammo shield armor
-tool item money
+tool item bag money
 
-### emotions
-nice great thanks
-sorry fun cool
+### Play State
+ready again pause
+continue join leave
 
-### conversation
+### Emotion / Social
+nice great thanks sorry
+fun cool
+
+### Conversation
 like want think
 tell ask
 
-### quantity
+### Quantity
 many few
 
-### game terms
+### Game Borrow Words
 push rush mid boss
 quest trade party level
+
+### MMO / Sandbox
+farm mine craft block
+village shop sell buy
 
 ## Numbers
 
@@ -200,7 +214,7 @@ Example
 3 team  
 10 apple  
 
-Numbers are universal and not counted in the 64 word limit.
+Numbers are universal and not counted in the 128 word limit.
 
 ## Repeat Rule
 
