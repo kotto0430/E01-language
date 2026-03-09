@@ -160,7 +160,7 @@ left right here there
 now later
 
 ### Connection
-and or no
+and or no ok
 
 ### Humans
 man woman child
@@ -168,7 +168,7 @@ friend enemy team
 
 ### Concepts
 AI game world life
-map house food water apple
+map house food water
 
 ### Commands
 wait open close
