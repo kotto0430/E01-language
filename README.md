@@ -184,20 +184,24 @@ AI game world
 map house food water
 
 ### Commands
-wait open close
-many all
+wait open close all
 
 ### Tactical
 danger need target
 
+### Quantity
+
+many
+
+
 ## E01 v0.11 Additional Vocabulary (+64)
 ### Distance / Position
 near far back front
-center low
+center
 
 ### Tactical Support
 heal cover safe
-hold protect
+hold protect low
 
 ### Game Progress
 spawn respawn base camp
