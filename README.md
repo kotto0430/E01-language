@@ -124,9 +124,13 @@ English words outside this list may still be used if needed.
 
 Word small. Meaning big. Brain free.
 
+Put important word first.
+Example:
+danger enemy near
+
 ---
 
-E01(⁠English0.11) uses a core vocabulary of 128 words.
+E01 uses a core vocabulary of 128 words.
 These words form the minimal language.
 
 
