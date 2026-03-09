@@ -220,7 +220,7 @@ like want think
 tell ask
 
 ### Quantity
-many few
+low few
 
 ### Game Borrow Words
 push rush mid boss
