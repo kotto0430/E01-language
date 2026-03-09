@@ -121,7 +121,7 @@ Word small. Meaning big. Brain free.
 
 ---
 
-E01 uses a core vocabulary of 64 words.
+E01(⁠English0.11) uses a core vocabulary of 128 words.
 These words form the minimal language.
 
 
@@ -134,6 +134,8 @@ start end
 ### State
 big small good bad  
 fast slow new old  
+ready again pause
+continue join leave
 
 ### Result
 win lose dead  
@@ -141,6 +143,7 @@ win lose dead
 ### Direction
 north south east west  
 left right here there  
+near far back front center
 
 ### Time
 now later 
@@ -161,8 +164,31 @@ wait open close
 more all  
 
 ### Tactical
-danger need target
+danger need target heal
+cover safe hold protect
 
+### Game progress
+spawn respawn base camp
+loot drop build break
+
+### equipment
+weapon ammo shield armor
+tool item money
+
+### emotions
+nice great thanks
+sorry fun cool
+
+### conversation
+like want think
+tell ask
+
+### quantity
+many few
+
+### game terms
+push rush mid boss
+quest trade party level
 
 ## Numbers
 
