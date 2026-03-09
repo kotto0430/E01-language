@@ -63,6 +63,18 @@ Brain free.
 
 ---
 
+## Respect for English
+
+English0.1 is based on English words and simple grammar.
+
+This project is not meant to replace English.
+
+English is a powerful and beautiful language used all over the world.
+
+E01 is only a small tool for fast and simple communication in games and online chat.
+
+If E01 helps someone become interested in learning English, that would make us very happy.
+
 ## Version Rule
 
 E01 must never approach English.
