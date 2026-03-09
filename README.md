@@ -185,7 +185,7 @@ map house food water
 
 ### Commands
 wait open close
-more all
+many all
 
 ### Tactical
 danger need target
@@ -193,7 +193,7 @@ danger need target
 ## E01 v0.11 Additional Vocabulary (+64)
 ### Distance / Position
 near far back front
-center 
+center low
 
 ### Tactical Support
 heal cover safe
@@ -220,7 +220,7 @@ like want think
 tell ask
 
 ### Quantity
-low few
+few
 
 ### Game Borrow Words
 push rush mid boss
