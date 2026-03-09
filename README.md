@@ -155,8 +155,7 @@ Total Vocabulary: 128
 
 ### Verbs
 go come run stop attack
-see give take eat make
-say know help have follow start end
+see give take eat know help have follow start end
 
 ### State
 big small good bad
@@ -168,19 +167,20 @@ win lose dead
 ### Direction
 north south east west
 left right here there
+move up down clear
 
 ### Time
 now later
 
 ### Connection
-and or no ok
+no ok
 
 ### Humans
 man woman child
 friend enemy team
 
 ### Concepts
-AI game world life
+AI game world 
 map house food water
 
 ### Commands
