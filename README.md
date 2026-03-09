@@ -149,7 +149,37 @@ more all
 ### Tactical
 danger need target
 
+
+## Numbers
+
+Numbers may always be used.
+
+Example
+
+1 enemy  
+3 team  
+10 apple  
+
+Numbers are universal and not counted in the 64 word limit.
+
+
 ### Example
+
+enemy north  
+danger  
+team follow  
+attack now  
+
+---
+
+old man give apple  
+man very happy  
+
+---
+
+enemy 3  
+team follow  
+attack now
 
 enemy north  
 team all attack  
