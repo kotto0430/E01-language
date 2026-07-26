@@ -2,11 +2,17 @@
 
 **Word small. Meaning big. Brain free.**
 
+**Don't fear mistakes. Send meaning.**
+
 English0.1 (E01) is a minimal communication system built from English words for games and online chat.
 
 It is not a replacement for English.
 
-Its goal is simple: communicate quickly with a small number of words and very little grammar.
+Its goal is simple: communicate quickly with a small number of familiar words and very little grammar.
+
+English0.1 is especially for people who have studied some English but do not feel confident speaking or writing it.
+
+The goal is confidence, not perfection. Familiar words from school, games, and everyday life are preferred over precise but difficult words.
 
 ## Quick Example
 
@@ -23,11 +29,53 @@ team win
 game good
 ```
 
+## Three-Layer Vocabulary System
+
+### Layer 1: Core E01
+
+The official vocabulary and basic communication rules.
+
+Core E01 is designed to remain small, stable, familiar, and easy to use.
+
+### Layer 2: Universal Game Terms
+
+Widely understood game terms and abbreviations may be used without counting toward the core vocabulary limit.
+
+Examples:
+
+```text
+GG
+AFK
+BRB
+HP
+XP
+NPC
+PvP
+PvE
+```
+
+Only terms that are already widely recognized across games should enter this layer.
+
+### Layer 3: Open Vocabulary
+
+Game-specific words, names, objects, places, and other necessary English words may be added freely.
+
+Examples:
+
+```text
+Creeper
+diamond
+redstone
+zombie
+```
+
+The E01 structure stays simple while Open Vocabulary supplies missing detail.
+
 ## Two Usage Modes
 
 ### Strict E01
 
-Use only the official vocabulary and numbers.
+Use only the official vocabulary, numbers, and approved Universal Game Terms.
 
 ```text
 enemy north
@@ -49,15 +97,17 @@ Open E01 is useful during development and real play. Words repeatedly needed in 
 
 ## Basic Rules
 
-- Keep sentences short.
-- One line means one message.
+- Keep messages short.
+- One line usually means one message.
 - Put the most important word first when useful.
 - Use `?` for questions.
-- Use `!` for strong commands.
+- Use `!` for urgency, emotion, or strong commands.
+- Repeating punctuation may increase intensity.
 - Use `no` for negatives.
-- Add `s` for plurals when needed.
+- Add `s` for plurals when useful.
 - Numbers may always be used.
 - Word order is flexible when the meaning is clear.
+- Known words come first. Perfect grammar comes later.
 
 Examples:
 
@@ -67,6 +117,7 @@ enemy here?
 danger north
 no run
 team all attack!
+help!!!
 ```
 
 ## Vocabulary System
@@ -179,13 +230,18 @@ Numbers are universal and do not count toward the vocabulary limit.
 
 ## Repeat Rule
 
-Repeat a word to make its meaning stronger.
+Repeat a word to make its meaning stronger. There is no fixed maximum when the emotion is clear.
 
 ```text
-big big = very big
-danger danger = very dangerous
-run run = run now
+nice = nice
+nice nice = very nice
+nice nice nice = extremely nice
+help = help me
+help help = urgent help
+HELP!!! = extreme emergency
 ```
+
+Repeating punctuation may also strengthen emotion or urgency.
 
 ## Join Rule
 
@@ -202,7 +258,9 @@ target enemy = attack this enemy
 
 English0.1 has no complex grammar.
 
-Use short words, flexible order, repetition, and combination to make the meaning clear.
+Use familiar words, flexible order, repetition, punctuation, and combination to make the meaning clear.
+
+Correct English is welcome, but it is not required.
 
 Strict examples:
 
@@ -240,9 +298,29 @@ English is a powerful and beautiful language used around the world. English0.1 i
 
 If English0.1 helps someone become interested in learning English, that would make us very happy.
 
+## Reuse and Remix
+
+You may use, copy, translate, modify, expand, redistribute, or create your own version of English0.1.
+
+This includes personal, educational, community, and commercial projects.
+
+When publishing a work or system based on English0.1, clearly state that it was based on the original English0.1 project and include this GitHub URL:
+
+```text
+Based on English0.1 by kotto & Yomi
+https://github.com/kotto0430/E01-language
+```
+
+The credit may appear under `Credits`, `Special Thanks`, `Acknowledgements`, or another clearly visible section.
+
+You do not need to ask for separate permission when this attribution is included.
+
+Modified versions should not claim to be the official English0.1 specification unless they have been accepted into this repository.
+
 ## Project Files
 
 - `EXAMPLES.md` — usage examples and conversations
+- `VOCABULARY_AUDIT.md` — missing-word discoveries and vocabulary decisions
 - `VOCABULARY_256_WORKSPACE.md` — candidate selection for the 256-word version
 
 ## Created by
