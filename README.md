@@ -4,6 +4,12 @@
 
 **Don't fear mistakes. Send meaning.**
 
+## Languages
+
+- **English** — this page
+- [日本語](README.ja.md)
+- More translations are planned. See [TRANSLATIONS.md](TRANSLATIONS.md).
+
 English0.1 (E01) is a minimal communication system built from English words for games and online chat.
 
 It is not a replacement for English.
@@ -319,6 +325,8 @@ Modified versions should not claim to be the official English0.1 specification u
 
 ## Project Files
 
+- `README.ja.md` — Japanese explanation
+- `TRANSLATIONS.md` — translation rules and language roadmap
 - `EXAMPLES.md` — usage examples and conversations
 - `VOCABULARY_AUDIT.md` — missing-word discoveries and vocabulary decisions
 - `VOCABULARY_256_WORKSPACE.md` — candidate selection for the 256-word version
