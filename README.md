@@ -10,6 +10,8 @@ Its goal is simple: communicate quickly with a small number of words and very li
 
 ## Quick Example
 
+This example uses only the official 128 words.
+
 ```text
 enemy north
 run
@@ -17,9 +19,33 @@ wait
 team all attack
 
 enemy dead
-we win
-life good
+team win
+game good
 ```
+
+## Two Usage Modes
+
+### Strict E01
+
+Use only the official vocabulary and numbers.
+
+```text
+enemy north
+team wait
+attack later
+```
+
+### Open E01
+
+Use the E01 system, but add ordinary English words when a missing word is important.
+
+```text
+door locked
+need key
+boss second floor
+```
+
+Open E01 is useful during development and real play. Words repeatedly needed in Open E01 become candidates for future official vocabulary.
 
 ## Basic Rules
 
@@ -45,13 +71,13 @@ team all attack!
 
 ## Vocabulary System
 
-English0.1 currently uses 128 core words:
+English0.1 currently uses 128 official words:
 
 - Core Vocabulary: 64 words
 - Additional Vocabulary: 64 words
 - Total: 128 words
 
-English words outside the list may still be used when needed.
+The project plans to test expansions to 256 and later 512 words. Candidate words are not official until they are reviewed and tested.
 
 ## Core Vocabulary (64 words)
 
@@ -143,12 +169,12 @@ farm, mine, craft, block, village, shop, sell, buy
 
 ## Numbers
 
-Numbers are universal and do not count toward the 128-word limit.
+Numbers are universal and do not count toward the vocabulary limit.
 
 ```text
 1 enemy
 3 team
-10 apple
+10 food
 ```
 
 ## Repeat Rule
@@ -178,13 +204,14 @@ English0.1 has no complex grammar.
 
 Use short words, flexible order, repetition, and combination to make the meaning clear.
 
+Strict examples:
+
 ```text
 enemy north
 team follow
 attack now
-
-old man give apple
-man very happy
+old man give food
+game good good
 ```
 
 ## Version Rule
@@ -212,6 +239,11 @@ English0.1 is based on English words and simple grammar.
 English is a powerful and beautiful language used around the world. English0.1 is only a small tool for fast and simple communication in games and online chat.
 
 If English0.1 helps someone become interested in learning English, that would make us very happy.
+
+## Project Files
+
+- `EXAMPLES.md` — usage examples and conversations
+- `VOCABULARY_256_WORKSPACE.md` — candidate selection for the 256-word version
 
 ## Created by
 
